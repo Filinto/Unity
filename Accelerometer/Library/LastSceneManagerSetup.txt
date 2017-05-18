@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/accelerometer.unity
+  isLoaded: 1
+  isActive: 1
